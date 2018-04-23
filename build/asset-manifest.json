@@ -1,6 +1,11 @@
 {
-  "main.css": "static/css/main.da928470.css",
-  "main.css.map": "static/css/main.da928470.css.map",
-  "main.js": "static/js/main.84e34fcd.js",
-  "main.js.map": "static/js/main.84e34fcd.js.map"
+  "main.css": "static/css/main.d7408294.css",
+  "main.css.map": "static/css/main.d7408294.css.map",
+  "main.js": "static/js/main.0581ad4d.js",
+  "main.js.map": "static/js/main.0581ad4d.js.map",
+  "static\\media\\PingFang Regular.ttf": "static/media/PingFang Regular.75225b29.ttf",
+  "static\\media\\PingFang-B.ttf": "static/media/PingFang-B.dd25b35d.ttf",
+  "static\\media\\PingFang-M.ttf": "static/media/PingFang-M.15974853.ttf",
+  "static\\media\\rzrx.ttf": "static/media/rzrx.c194f7fd.ttf",
+  "static\\media\\tx.jpg": "static/media/tx.3b91a375.jpg"
 }
